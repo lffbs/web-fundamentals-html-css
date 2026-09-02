@@ -1,0 +1,2 @@
+-Aula 5 foi uma aula para colocar favicon no  html.
+-Foi adicionado um favicon em todos os arquivos html
