@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(226, 225, 142, 0.507);
+}
+
+h1{
+    color: rgb(160, 9, 9);
+}
+
+
+h2{
+    color: rgb(16, 27, 51);
+}
+
+#principal{
+    text-align: center;
+    background-color: #D7A27D;
+}
+
+.subtitulo-html{
+    color: black;
+}

@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+body {
+  background-color: rgba(226, 225, 142, 0.527);
+
+}
+
+h1 {
+  color: black;
+}
+
+#principal {
+  text-align: center;
+  background-color: #d7a27d;
+  color: rgb(160, 9, 9);
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.subtitulo-easy {
+  color: rgb(6, 133, 2);
+  display:inline ;
+}
+
+.subtitulo-medium {
+  color: rgba(255, 196, 0, 0.897);
+}
+
+/* width =largura
+    height=altura*/
+
+.subtitulo-advanced {
+  color: red;
+ 
+}
